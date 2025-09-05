@@ -50,12 +50,16 @@ The data was preprocessed, tokenized using **BERT Tokenizer**, and split into **
 
 ## 📸 Project Snapshots
 
-![Architecture Design](snapshot/Architecture_Picture.png)  
+Architecture Design
+
+![Architecture Design](Snapshot/Architecture_Picture.png)  
 ---
-![App Demo](snapshot/App.png)  
+
+App Demo
+
+![App Demo](Snapshot//App.png)  
 ---
-![App Demo](snapshot/App2.png) 
----
+
 
 🌐 Live Demo:  
 👉 [Emotion Classification App](https://emotion-classifier.streamlit.app/)  
