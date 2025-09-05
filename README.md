@@ -62,7 +62,7 @@ App Demo
 
 
 🌐 Live Demo:  
-👉 [Emotion Classification App](https://emotion-classifier.streamlit.app/)  
+👉 [Emotion Classification App](https://emotion-classifier-5.streamlit.app/)  
 
 ---
 
