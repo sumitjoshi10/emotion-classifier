@@ -4,7 +4,9 @@ import numpy as np
 
 from transformers import BertForSequenceClassification, BertTokenizer
 
-st.title("BERT Sentiment Analysis")
+st.set_page_config(page_title="Emotion Classifier", page_icon="😃")
+
+st.title("BERT Emotion Classifier")
 
 
 save_directory = './artifacts'
