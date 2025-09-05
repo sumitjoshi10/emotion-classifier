@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+pandas
+matplotlib
+seaborn
+torch
+torchvision
+scikit-learn
+transformers
+
