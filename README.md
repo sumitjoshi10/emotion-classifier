@@ -62,7 +62,10 @@ App Demo
 
 
 🌐 Live Demo:  
-👉 [Emotion Classification App](https://huggingface.co/spaces/Bhunte25/emotion-classifier)  
+👉 [Emotion Classifier App Deployed in HuggingFace](https://huggingface.co/spaces/Bhunte25/emotion-classifier)  
+
+👉 [Emotion Classifier App Deployed in Streamlit](https://emotion-classifier-5.streamlit.app/) 
+
 
 ---
 
